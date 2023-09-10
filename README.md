@@ -108,6 +108,7 @@ Here is an example of how you can configure an run the project
 After running the application you can access it on `localhost:4001` for developement and `localhost:80` for production.
 
 Three endpoint are available:
+
     1. `GET /files/:file_name` - serves the file
     2. `POST /upload` - name, file, and quality (0% - 100%) need to be specified - upload the file
     3. `GET /list` - lists the files available
