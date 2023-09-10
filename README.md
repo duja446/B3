@@ -11,7 +11,7 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">Bluetooth Amp</h3>
+<h3 align="center">B3</h3>
 
   <p align="center">
     A self hosted webapp that plays music through bluetooth.
