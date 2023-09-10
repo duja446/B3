@@ -14,7 +14,7 @@
 <h3 align="center">B3</h3>
 
   <p align="center">
-    A self hosted webapp that plays music through bluetooth.
+    Simple application that stores uploaded images and serves them.
     <br />
     <a href="https://github.com/duja446/B3"><strong>Explore the docs »</strong></a>
     <br />
